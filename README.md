@@ -1,10 +1,10 @@
-# Elemental Conduits Datapack | [Download](LINK_TO_RELEASES)
+# Elemental Conduits Datapack | [Download](https://github.com/Scommander/ElementalConduitsDatapack/releases)
 
 **If using this creation in a video I ask that you paste the following into your description:**
 
     "Elemental Conduits" datapack by Scommander [https://www.youtube.com/c/scommander]
 
-    Download Datapack: [LINK_TO_RELEASES]
+    Download Datapack: [https://github.com/Scommander/ElementalConduitsDatapack/releases]
 
 ## Introduction
 
