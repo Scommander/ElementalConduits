@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/chorus_flower",
+    "overrides": [
+      { "predicate": {"custom_model_data": 903001}, "model": "minecraft:block/air_conduit"}
+    ]
+}

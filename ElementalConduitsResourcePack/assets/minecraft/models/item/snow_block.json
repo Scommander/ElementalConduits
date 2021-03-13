@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/snow_block",
+    "overrides": [
+      { "predicate": {"custom_model_data": 903001}, "model": "minecraft:block/ice_conduit"}
+    ]
+}
