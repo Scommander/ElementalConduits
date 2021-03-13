@@ -1,0 +1,1 @@
+effect give @a[distance=..48] minecraft:fire_resistance 12 0

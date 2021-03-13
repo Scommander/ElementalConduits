@@ -1,0 +1,1 @@
+execute align xyz positioned ~0.5 ~0.5 ~0.5 positioned ~ ~-1.5 ~ unless entity @e[type=minecraft:armor_stand,tag=_elemCond_marker,limit=1,distance=..0.1] run summon minecraft:armor_stand ~ ~ ~ {Pose:{Head:[1f,0f,0f]},Tags:["_elemCond_marker"],NoGravity:1b,Marker:1b,Invulnerable:1b,Invisible:1b}

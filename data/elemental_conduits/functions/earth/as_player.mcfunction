@@ -1,0 +1,1 @@
+effect give @e[distance=0.1..10] glowing 3 0
