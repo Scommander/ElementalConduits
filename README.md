@@ -8,7 +8,7 @@
 
 ## Introduction
 
-"Elemental Conduits" is a survival friendly datapack which adds 4 new conduits into Minecraft! The fire conduit, earth conduit, ice conduit, and the air conduit. Each have their own unique abilities. This does require both a datapack AND resource pack so make sure you install both :)
+"Elemental Conduits" is a survival friendly datapack designed for 1.16 (currently works in 1.17 too) which adds 4 new conduits into Minecraft! The fire conduit, earth conduit, ice conduit, and the air conduit. Each have their own unique abilities. This does require both a datapack AND resource pack so make sure you install both :)
 
 Watch The Showcase Video: https://youtu.be/vZ58u9DhblI
 
